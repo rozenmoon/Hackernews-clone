@@ -9,7 +9,7 @@ source ~/.bashrc
 nvm install 8.9.0
 ```
 
-## Testing how production machine would serve 
+## Testing how production machine would serve (Linux)
 
 The Build folder is ready to deploy and can be added to root folder of the Server 
 
