@@ -1,8 +1,15 @@
 # Hackernews-clone
-This project is part of assessment test for wwstay 
+This project is part of assessment test for WWSTAY 
 
+## Installing Prerequisite required to run the Server (Linux)
 
-## Testing How Production Machine would Serve
+```sh
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | sh
+source ~/.bashrc
+nvm install 8.9.0
+```
+
+## Testing How Production Machine would Serve 
 
 The Build folder is ready to deploy and can be added to root folder of the Server 
 
