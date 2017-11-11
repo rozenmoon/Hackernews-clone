@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sp",
+				"specimen"
+			],
+			[
+				"spec",
+				"species"
+			],
+			[
+				"re",
+				"reactantsstereo"
+			],
+			[
+				"rect",
+				"reactants"
+			],
+			[
+				"s",
+				"specimens"
+			],
+			[
+				"my",
+				"myCont"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"inputValue"
+			],
+			[
+				"Fir",
+				"FirstAppication"
+			],
+			[
+				"result",
+				"resultname"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"fo",
+				"forth"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"c",
+				"Click"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"back",
+				"backface-visibility"
+			],
+			[
+				"fade",
+				"fade1"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rozen/Downloads/hackernews-clone/src/App.test.js",
+		"/home/rozen/Downloads/hackernews-clone/public/index.html",
+		"/home/rozen/Downloads/Ec_iAF1260_flux1.xml",
+		"/home/rozen/Downloads/hw3.py",
+		"/home/rozen/Downloads/a.xml",
+		"/home/rozen/Desktop/javasriptexample.html",
+		"/home/rozen/Desktop/program.js",
+		"/home/rozen/Desktop/angularJspractice3.html",
+		"/home/rozen/Desktop/angularpractice2.html",
+		"/home/rozen/Desktop/firstangular.html",
+		"/home/rozen/Desktop/circularrotation.html",
+		"/home/rozen/Desktop/practiceproblem.html",
+		"/home/rozen/Desktop/angularjspractic1.html",
+		"/home/rozen/Desktop/animationusingcss.html",
+		"/home/rozen/Desktop/demosublime.css",
+		"/home/rozen/Desktop/Demosublime.html",
+		"/home/rozen/Desktop/netaccess.html",
+		"/home/rozen/Desktop/Responsesheet.html",
+		"/home/rozen/Desktop/Jsongettinginfo.html",
+		"/home/rozen/Desktop/firstjquery.html",
+		"/home/rozen/Desktop/2ndjquery.html",
+		"/home/rozen/Desktop/3rdjquery.html",
+		"/home/rozen/Desktop/thjquery.html",
+		"/home/rozen/Desktop/jquery-2.2.0.min.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"listofreactions",
+			"     \n",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "News.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
