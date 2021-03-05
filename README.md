@@ -1,5 +1,5 @@
 # Hackernews-clone
-This project is part of assessment test for WWSTAY 
+This project is learning project
 
 ## Installing prerequisite required to run the server (Linux)
 
